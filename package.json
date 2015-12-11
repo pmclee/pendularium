@@ -1,0 +1,15 @@
+{
+  "name": "pendularium",
+  "version": "0.1.0",
+  "description": "A sandbox for exploring the features of getbadges",
+  "author": "pmclee",
+  "main": "source.js",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/pmclee/pendularium"
+  },
+  "dependencies": {
+  },
+  "analyze": true,
+  "license": "MIT"
+}
