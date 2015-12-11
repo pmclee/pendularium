@@ -6,7 +6,7 @@
   "main": "source.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pmclee/pendularium"
+    "url": "https://github.com/pmclee/pendularium.git"
   },
   "dependencies": {
   },
