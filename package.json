@@ -5,8 +5,8 @@
   "author": "pmclee",
   "main": "source.js",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/pmclee/pendularium"
+    "type": "git",
+    "url": "https://github.com/pmclee/pendularium.git"
   },
   "dependencies": {
   },
